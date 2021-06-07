@@ -1,4 +1,4 @@
-public class App {
+public class StringText {
     public static void main(String[] args) {
         int myInt = 7;
 
