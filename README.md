@@ -8,3 +8,4 @@
 - Tutorial 4 -> While loop in Java.
 - Tutorial 5 -> For loop in Java.
 - Tutorial 6 -> If-else in Java.
+- Tutorial 7 -> User Input in Java.
