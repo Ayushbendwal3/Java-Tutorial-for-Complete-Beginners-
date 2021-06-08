@@ -7,3 +7,4 @@
 - Tutorial 3 -> String and text in Java.
 - Tutorial 4 -> While loop in Java.
 - Tutorial 5 -> For loop in Java.
+- Tutorial 6 -> If-else in Java.
