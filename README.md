@@ -10,3 +10,4 @@
 - Tutorial 6 -> If-else in Java.
 - Tutorial 7 -> User Input in Java.
 - Tutorial 8 -> Do-While in Java.
+- Tutorial 9 -> Switch in Java.
